@@ -1,31 +1,7 @@
 # Python-programming
-This repo is about my python programming course which is enough to learn basics of python consist of some programs and notes chits
+This repo is about my python programming course which is enough to learn basics of python consist of some programs and notes chit
 
-# The Ultimate Python Course
-
-Welcome to [**The Ultimate Python Course!**](https://youtu.be/UrsmFxEIp5k)
-
-This course is designed to take you from a  beginner to an advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
-This is a part of my video The Ultimate Python Couse. Refer to this [video](https://youtu.be/UrsmFxEIp5k) to watch my Python course
-
-## Table of Contents
-
-- [The Ultimate Python Course](#the-ultimate-python-course)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Chapters](#chapters)
-  - [Projects](#projects)
-  - [Problem Sets](#problem-sets)
-  - [Additional Resources](#additional-resources)
-  - [How to Use This Repository](#how-to-use-this-repository)
-
-## Introduction
-
-This repository is part of **The Ultimate Python Course** created by [CodeWithHarry](https://www.codewithharry.com/). The course aims to provide a comprehensive guide to learning Python programming.
-
-## Chapters
-
-The course is divided into several chapters, each focusing on different aspects of Python programming:
+ers, each focusing on different aspects of Python programming:
 
 - **Chapter 1: Modules, Comments & pip**
   - Writing the first Python program
@@ -103,22 +79,4 @@ The course is divided into several chapters, each focusing on different aspects 
 - **Mega Project 2: AI AutoReply Bot**
   - An AI-based bot designed to automatically reply to messages, enhancing communication efficiency.
 
-## Problem Sets
 
-Each chapter contains problem sets to test your understanding and to practice coding. The problem sets include various challenges and exercises relevant to the chapter's content.
-
-## Additional Resources
-
-- **[Download the Handbook](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/blob/main/The%20Ultimate%20Python%20Handbook.pdf)**
-- **[Download the Handwritten Notes](https://www.codewithharry.com/notes)**
-- **[Download the Ultimate Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet/)**
-
-## How to Use This Repository
-
-1. **Clone the repository** to your local machine using:
-   ```sh
-   git clone https://github.com/CodeWithHarry/The-Ultimate-Python-Course.git
-   ```
-2. **Navigate through the chapters** to find the relevant lessons and code examples.
-3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
-4. **Work on the projects** to apply your knowledge in real-world scenarios.
